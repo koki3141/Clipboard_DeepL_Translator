@@ -8,6 +8,9 @@ pip install -r requirements.txt
 ```
 
 # PowerShellにaliasとして登録する方法
+Microsoft StoreからPowerShellのインストール
+>https://www.microsoft.com/store/productId/9MZ1SNWT0N5D
+
 PowerShellを起動
 
 profileを作成
