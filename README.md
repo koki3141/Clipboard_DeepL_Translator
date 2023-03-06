@@ -7,7 +7,7 @@
 pip install -r requirements.txt
 ```
 
-#Powershellにaliasとして登録する方法
+# Powershellにaliasとして登録する方法
 PowerShellを起動
 
 profileを作成
