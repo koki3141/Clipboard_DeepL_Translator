@@ -21,7 +21,7 @@ dl.pyを実行する関数を作成
 ```
 echo 'function deepl {python C:\Users\$path$\dl.py}' > $profile
 ```
-aliasを登録
+'dl'としてaliasを登録
 ```
 echo 'Set-Alias -Name dl -Value deepl'> $profile
 ```
