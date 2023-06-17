@@ -6,6 +6,10 @@
 ```
 pip install -r requirements.txt
 ```
+or
+```
+pip install pyperclip requests deepl
+```
 
 # PowerShellにaliasとして登録する方法
 Microsoft StoreからPowerShellのインストール
